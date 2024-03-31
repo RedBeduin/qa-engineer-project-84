@@ -1,0 +1,48 @@
+---
+- summary: |
+    Успешное добавление товара в корзину
+  status: pass
+
+- summary: |
+    Проверка работы фильтра «Категория»
+  status: pass
+
+- summary: |
+    Проверка работы фильтра «Производитель»
+  status: pass
+
+- summary: |
+    Проверка работы фильтра «В наличии»
+  status: fail
+
+- summary: |
+    Проверка работы фильтра «Цена»
+  status: faileeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+- summary: |
+    Успешное оформление заказа
+  status: fail
+
+- summary: |
+    Успешное удаление товара из корзины
+  status: pass
+
+- summary: |
+    Успешный переход на главную страницу магазина по кнопке
+  status: pass
+
+- summary: |
+    Успешная смена языка магазина
+  status: fail
+
+- summary: |
+    Успешный переход на сайт разработчиков магазина
+  status: pass
+
+- summary: |
+    Проверка работы поиска товара в магазине
+  status: pass
+
+- summary: |
+    Успешная очистка корзины
+  status: pass
