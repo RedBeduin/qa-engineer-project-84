@@ -17,7 +17,7 @@
 
 - summary: |
     Проверка работы фильтра «Цена»
-  status: faileeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+  status: fail
 
 - summary: |
     Успешное оформление заказа
@@ -46,3 +46,4 @@
 - summary: |
     Успешная очистка корзины
   status: pass
+
