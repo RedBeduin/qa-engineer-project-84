@@ -66,3 +66,44 @@
 - summary: |
     Проверка добавления нескольких одинаковых товаров в корзину 
   status: pass
+
+- summary: |
+    Проверка добавления нескольких разных товаров в корзину
+  status: pass
+
+- summary: |
+    Навигация по страницам магазина
+  status: pass
+
+- summary: |
+    Проверка работы хэштегов категорий на страницах товаров
+  status: fail
+
+- summary: |
+    Негативная проверка работы поиска
+  status: fail
+
+- summary: |
+    Негативная проверка работы фильтра «Цена»
+  status: fail
+
+- summary: |
+    Проверка работы магазина в браузере Mozilla Firefox
+  status: pass
+
+- summary: |
+    Проверка работы магазина в браузере Google Chrome
+  status: pass
+
+- summary: |
+    Проверка работы магазина на Android-устройстве в браузере Google Chrome
+  status: pass
+
+- summary: |
+    Проверка работы Backend составляющей магазина с помощью DevTools 
+  status: fail
+
+
+
+
+
